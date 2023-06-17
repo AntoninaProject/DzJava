@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Triangle {
+public class Dz1Task1 {
 
     public static void main(String[] args) {
         Scanner f = new Scanner(System.in);
